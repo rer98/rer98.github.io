@@ -1,3 +1,6 @@
+1. TOC
+{:toc}
+
 # Cake
 
 ## Eating it
