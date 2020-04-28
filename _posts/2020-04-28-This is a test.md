@@ -26,7 +26,7 @@ Image.open('bear2.jpeg')
 
 
 
-![png](This is a test_files/output_4_0.png)
+![png](images/This is a test_files/output_4_0.png)
 
 
 
@@ -39,7 +39,7 @@ Image.open('../Desktop/bear.jpg')
 
 
 
-![png](This is a test_files/output_6_0.png)
+![png](images/This is a test_files/output_6_0.png)
 
 
 
@@ -55,7 +55,7 @@ plt.plot([1, 8, -3])
 
 
 
-![png](This is a test_files/output_7_1.png)
+![png](images/This is a test_files/output_7_1.png)
 
 
 ```python
