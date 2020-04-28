@@ -19,16 +19,27 @@ You can see by the fact that I'm not saying anything interesting.  Look!  An equ
 
 I bet you want to see the cell below, but you can't because it's hidden!
 
-## Images
-
 ```python
-Image.open('./brexit.png').flip_lr()
+pwd
 ```
 
 
 
 
-![png](This is a test_files/output_5_0.png)
+    '/home/rer/nbdev'
+
+
+
+## Images
+
+```python
+Image.open('../brexit.png').flip_lr()
+```
+
+
+
+
+![png](This is a test_files/output_6_0.png)
 
 
 
@@ -39,12 +50,12 @@ plt.plot([1, 8, -3])
 
 
 
-    [<matplotlib.lines.Line2D at 0x7f571cd6ded0>]
+    [<matplotlib.lines.Line2D at 0x7fe944888790>]
 
 
 
 
-![png](This is a test_files/output_6_1.png)
+![png](This is a test_files/output_7_1.png)
 
 
 ```python
