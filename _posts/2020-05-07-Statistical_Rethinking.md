@@ -1,4 +1,4 @@
-# Statistical Rethinking 1
+# Statistical Rethinking - Lecture 1
 > A summary of Bayesian statistics for scientists by Professor Richard McElreath.
 
 - toc: true 
@@ -6,8 +6,6 @@
 - comments: true
 - categories: [statistics, bayesian, rethinking]
 <!-- - image: images/chart-preview.png -->
-
-## Lecture 1
 
 The long-running 'Frequentist' versus 'Bayesian' rivalry in the statistical world is over.  We are all Bayesians now.  Statistical departments across the world's universities almost exclusively approach research problems using the Bayesian paradigm now.  Other departments may be slow to follow, but are likely to catch up at some point.  The Bayesian paradigm generalizes better than the Frequentists' methods, which were originally developed by Ronald A. Fisher to deal with the specific case of agricultural problems in England in the early 20th century, where it was possible to do randomized controlled field experiments and the strength of treatment effects were large.  As the world is complex and many research fields do not have the luxury of being able to do controlled experiments (e.g. for ethical reasons or practical reasons - we cannot crash an economy to test an economic point), it is necessary to use the methods of Bayesian statistics to perform inference.  These methods allow us to incorporate our prior knowledge in a simple, practical way, while updating our knowledge as new data is revealed.  Indeed, it has been shown by Leonard Jimmie Savage in the mid 20th century that Bayesian data assimilation is the optimal way of incorporating such new data (in a 'small world' setting -see below).
 
